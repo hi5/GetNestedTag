@@ -7,7 +7,7 @@ Function (parser) to retrieve the contents of a (nested) HTML-tag, say a DIV.
 This is useful if you have a HTML file/or variable and you want to extract a block of data,
 for example the CONTENT or MAIN div or a UL that is used for a menu. By default it will
 get the first occurrence of a tag, so if you want to use it to get more than one tag you will have
-to use a loop, for example if you wanted to get all <p> tags from the HTML data. (See example 5)
+to use a loop, for example if you wanted to get all Paragraph &lt;p&gt; tags from the HTML data. (See example 5)
 
 ### Parameters
 
